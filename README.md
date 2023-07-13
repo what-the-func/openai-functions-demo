@@ -1,4 +1,4 @@
-# OpenAI Function Demo
+# OpenAI Functions Demo
 
 A demonstration of how GPT-3.5/4 can be used as a reasoning engine to perform tasks using the powerful Function Calls feature
 
